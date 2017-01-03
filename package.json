@@ -1,0 +1,28 @@
+{
+  "name": "7z-wrapper",
+  "version": "0.1.1",
+  "description": "a wrapper for 7z",
+  "main": "index.js",
+  "dependencies": {
+    "combine-streams": "^1.0.0",
+    "gather-stream": "^1.0.0",
+    "lodash": "^4.6.0",
+    "mime-types": "^2.1.8",
+    "minimist": "^1.2.0",
+    "node-7z": "^0.3.0",
+    "node-ipc": "^8.1.1",
+    "normalize-path": "^2.0.1",
+    "q": "^1.4.1",
+    "request": "^2.67.0",
+    "win-spawn": "^2.0.0",
+    "childProcess": "https://github.com/codenamesrcl/childProcess.git"
+  },
+  "keywords": [
+    "generic",
+    "nodejs",
+    "scripts",
+    "helpers"
+  ],
+  "author": "codenamesrcl",
+  "license": "ISC"
+}
